@@ -1,0 +1,8 @@
+{
+  "Author": "zopheous",
+  "Name": "Party Converter",
+  "Punchline": "Convert to cross-world party with a single command.",
+  "Description": "Use /pconvert to convert current party to cross-world.",
+  "ApplicableVersion": "any",
+  "Tags": []
+}
