@@ -1,18 +1,20 @@
-{
-    "Author": "zopheous",
-    "Name": "Party Converter",
-    "InternalName": "PartyConverter",
-    "AssemblyVersion": "0.0.0.1",
-    "Description": "Use /pconvert to convert current party to cross-world.",
-    "ApplicableVersion": "any",
-    "Tags": [],
-    "DalamudApiLevel": 11,
-    "LoadRequiredState": 0,
-    "LoadSync": false,
-    "CanUnloadAsync": false,
-    "LoadPriority": 0,
-    "Punchline": "Convert to cross-world party with a single command.",
-    "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/zopheous/PartyConverter/releases/download/v1.0-api11/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/zopheous/PartyConverter/releases/download/v1.0-api11/latest.zip"
-}
+[
+    {
+        "Author": "zopheous",
+        "Name": "Party Converter",
+        "InternalName": "PartyConverter",
+        "AssemblyVersion": "0.0.0.1",
+        "Description": "Use /pconvert to convert current party to cross-world.",
+        "ApplicableVersion": "any",
+        "Tags": [],
+        "DalamudApiLevel": 11,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "CanUnloadAsync": false,
+        "LoadPriority": 0,
+        "Punchline": "Convert to cross-world party with a single command.",
+        "AcceptsFeedback": true,
+        "DownloadLinkInstall": "https://github.com/zopheous/PartyConverter/releases/download/v1.0-api11/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/zopheous/PartyConverter/releases/download/v1.0-api11/latest.zip"
+    }
+]
